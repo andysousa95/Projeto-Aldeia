@@ -106,7 +106,7 @@ $(".casa").click(function(){
  
  
     if(pontos_pretas == 12 || pontos_brancas == 12){
-        $("#info").html("<h1>Fim de jogo!</h1>");
+        $("#info").html("<h1>Game Over!</h1>");
     }           
  
 }); 
